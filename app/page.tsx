@@ -35,7 +35,7 @@ export default function Home() {
 
           <Link
             href="https://facebook.com/zeena.com.tn"
-            className="inline-block bg-yellow-400 text-black py-2 px-6 rounded-full hover:bg-gray-800 transition-colors"
+            className="inline-block bg-yellow-400 text-black py-2 px-6 rounded-full hover:bg-blue-800 hover:text-white transition-colors"
           >
             Visiter notre Page Facebook
           </Link>
